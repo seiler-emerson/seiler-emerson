@@ -43,8 +43,8 @@ Here are some ideas to get you started:
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://i.pinimg.com/originals/f5/32/57/f532571da1fe9af84b95e3db5e79d4c3.png">
 
 
-    ![JavaScript](/img/icons/javascript.svg)
-    
+    ![JavaScript](./img/icons/javascript.svg)
+
   <!--  <img align="center" alt="Rafa-React" height="30" width="40" src="https://i.pinimg.com/originals/f5/32/57/f532571da1fe9af84b95e3db5e79d4c3.png">
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
