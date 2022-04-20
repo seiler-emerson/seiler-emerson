@@ -17,7 +17,9 @@
 #
 <h2 style="display: flex;justify-content: center;">Tecnologias que eu uso no meu dia</h2>
 
-<div>
+
+![Javascript](https://github.com/seiler-emerson/seiler-emerson/tree/main/img/icons/javascript.svg)
+  
   <img align="center" alt="JavaScript" height="30" width="40" src="./img/icons/javascript.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="./img/icons/typescript.svg">
   <img align="center" alt="html5" height="30" width="40" src="./img/icons/html5.svg">
@@ -30,7 +32,7 @@
   <img align="center" alt="Photoshop" height="30" width="40" src="./img/icons/photoshop.svg">
   <img align="center" alt="CorelDraw" height="30" width="30" src="./img/icons/corel.png">
   <img align="center" alt="JavaScript" height="30" width="30" src="./img/icons/fusion360.jfif">
-</div>
+
   
 <br/>
 
