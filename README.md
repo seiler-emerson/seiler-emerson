@@ -1,5 +1,13 @@
 ### Olá! Eu sou o Emerson Seiler 👋
 
+- 💻 Desenvolvedor Jr
+- 👨‍🔬 Engenheiro Mecânico / Clínico Biomédico
+- 🖨️ Impressor 3D
+- 💡 Modelagem 3D
+- 🚴 Mountain Bike
+
+#
+
 <!--
 **seileremerson/seileremerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,7 +40,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
-  <!--  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
+    <img align="center" alt="Rafa-React" height="30" width="40" src="https://i.pinimg.com/originals/f5/32/57/f532571da1fe9af84b95e3db5e79d4c3.png">
+  <!--  <img align="center" alt="Rafa-React" height="30" width="40" src="https://i.pinimg.com/originals/f5/32/57/f532571da1fe9af84b95e3db5e79d4c3.png">
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
