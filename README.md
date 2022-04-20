@@ -18,7 +18,7 @@
 <h2 style="display: flex;justify-content: center;">Tecnologias que eu uso no meu dia</h2>
 
 
-![Javascript](https://github.com/seiler-emerson/seiler-emerson/tree/main/img/icons/javascript.svg)
+<!-- ![Javascript](https://github.com/seiler-emerson/seiler-emerson/tree/main/img/icons/javascript.svg) -->
   
   <img align="center" alt="JavaScript" height="30" width="40" src="./img/icons/javascript.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="./img/icons/typescript.svg">
