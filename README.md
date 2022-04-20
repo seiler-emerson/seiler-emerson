@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Emerson Seiler 👋
 
-- 💻 Desenvolvedor Jr
+- 💻 Desenvolvedor Júnior
 - 👨‍🔬 Engenheiro Mecânico / Clínico Biomédico
 - 🖨️ Impressão 3D
 - 💡 Modelagem 3D
