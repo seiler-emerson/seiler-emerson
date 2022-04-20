@@ -2,7 +2,7 @@
 
 - 💻 Desenvolvedor Jr
 - 👨‍🔬 Engenheiro Mecânico / Clínico Biomédico
-- 🖨️ Impressor 3D
+- 🖨️ Impressão 3D
 - 💡 Modelagem 3D
 - 🚴 Mountain Bike
 
