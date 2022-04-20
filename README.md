@@ -31,19 +31,25 @@ Here are some ideas to get you started:
 #
 <h2 style="display: flex;justify-content: center;">Tecnologias que eu uso no meu dia</h2>
 
-  <div style="display: flex;justify-content: center"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
-    <img align="center" alt="Rafa-React" height="30" width="40" src="https://i.pinimg.com/originals/f5/32/57/f532571da1fe9af84b95e3db5e79d4c3.png">
+  <div>
+    <img align="center" alt="JavaScript" height="30" width="40" src="./img/icons/javascript.svg">
+    <img align="center" alt="Typescript" height="30" width="40" src="./img/icons/typescript.svg">
+    <img align="center" alt="html5" height="30" width="40" src="./img/icons/html5.svg">
+    <img align="center" alt="css3" height="30" width="40" src="./img/icons/css3.svg">
+    <img align="center" alt="Git" height="30" width="40" src="./img/icons/git.svg">
+    <img align="center" alt="GitHub" height="30" width="40" src="./img/icons/github.svg">
+    <img align="center" alt="Linux" height="30" width="40" src="./img/icons/linux.svg">
+    <img align="center" alt="Trello" height="30" width="40" src="./img/icons/trello.svg">
+    <img align="center" alt="Notion" height="30" width="30" src="./img/icons/notion.png">
+    <img align="center" alt="Photoshop" height="30" width="40" src="./img/icons/photoshop.svg">
+    <img align="center" alt="CorelDraw" height="30" width="30" src="./img/icons/corel.png">
+    <img align="center" alt="JavaScript" height="30" width="30" src="./img/icons/fusion360.jfif">
+  
+  
+  
 
 
-    ![JavaScript](./img/icons/javascript.svg)
+    
 
   <!--  <img align="center" alt="Rafa-React" height="30" width="40" src="https://i.pinimg.com/originals/f5/32/57/f532571da1fe9af84b95e3db5e79d4c3.png">
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
