@@ -47,3 +47,4 @@
 
 #
   
+![Snake animation](https://github.com/seiler-emerson/seiler-emerson/blob/output/github-contribution-grid-snake.svg)
