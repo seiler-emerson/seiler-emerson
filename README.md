@@ -7,12 +7,7 @@
 - 🚴 Mountain Bike
 
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=seiler-emerson"
-    alt="seiler-emerson"
-  />
-</p>
+
 #
 
 <div align="center">
