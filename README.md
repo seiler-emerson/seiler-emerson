@@ -1,4 +1,4 @@
-### Hi! I am Emerson Seiler 👋
+## Hi! I am Emerson Seiler 👋
 
 - 💻 Junior Developer
 - 👨‍🔬 Mechanical Engineer / Biomedical Clinic
@@ -17,7 +17,7 @@
 </div>
   
 #
-<h2 style="display: flex;justify-content: center;">Technologies I use in my day</h2>
+## Technologies I use in my day
 
 <img align="center" alt="JavaScript" height="30" width="40" src="./img/icons/javascript.svg">
 <img align="center" alt="Typescript" height="30" width="40" src="./img/icons/typescript.svg">
@@ -37,12 +37,11 @@
 
 #
 
-<h2 style="display: flex;justify-content: center;">How to find me</h2>
-<div style="display: flex;justify-content: center"> 
-  <a href="https://www.linkedin.com/in/seileremerson/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-</div>
+## How to find me
+
+<a href="https://www.linkedin.com/in/seileremerson/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
 
 <br/>
 
