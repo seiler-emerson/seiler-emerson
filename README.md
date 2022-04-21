@@ -17,21 +17,18 @@
 #
 <h2 style="display: flex;justify-content: center;">Tecnologias que eu uso no meu dia</h2>
 
-
-![Javascript]https://raw.githubusercontent.com/seiler-emerson/seiler-emerson/main/img/icons/javascript.svg)
-  
-  <img align="center" alt="JavaScript" height="30" width="40" src="./img/icons/javascript.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="./img/icons/typescript.svg">
-  <img align="center" alt="html5" height="30" width="40" src="./img/icons/html5.svg">
-  <img align="center" alt="css3" height="30" width="40" src="./img/icons/css3.svg">
-  <img align="center" alt="Git" height="30" width="40" src="./img/icons/git.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="./img/icons/github.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="./img/icons/linux.svg">
-  <img align="center" alt="Trello" height="30" width="40" src="./img/icons/trello.svg">
-  <img align="center" alt="Notion" height="30" width="30" src="./img/icons/notion.png">
-  <img align="center" alt="Photoshop" height="30" width="40" src="./img/icons/photoshop.svg">
-  <img align="center" alt="CorelDraw" height="30" width="30" src="./img/icons/corel.png">
-  <img align="center" alt="JavaScript" height="30" width="30" src="./img/icons/fusion360.jfif">
+<img align="center" alt="JavaScript" height="30" width="40" src="./img/icons/javascript.svg">
+<img align="center" alt="Typescript" height="30" width="40" src="./img/icons/typescript.svg">
+<img align="center" alt="html5" height="30" width="40" src="./img/icons/html5.svg">
+<img align="center" alt="css3" height="30" width="40" src="./img/icons/css3.svg">
+<img align="center" alt="Git" height="30" width="40" src="./img/icons/git.svg">
+<img align="center" alt="GitHub" height="30" width="40" src="./img/icons/github.svg">
+<img align="center" alt="Linux" height="30" width="40" src="./img/icons/linux.svg">
+<img align="center" alt="Trello" height="30" width="40" src="./img/icons/trello.svg">
+<img align="center" alt="Notion" height="30" width="30" src="./img/icons/notion.png">
+<img align="center" alt="Photoshop" height="30" width="40" src="./img/icons/photoshop.svg">
+<img align="center" alt="CorelDraw" height="30" width="30" src="./img/icons/corel.png">
+<img align="center" alt="JavaScript" height="30" width="30" src="./img/icons/fusion360.jfif">
 
   
 <br/>
