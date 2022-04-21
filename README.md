@@ -1,9 +1,9 @@
-### Olá! Eu sou o Emerson Seiler 👋
+### Hi! I am Emerson Seiler 👋
 
-- 💻 Desenvolvedor Júnior
-- 👨‍🔬 Engenheiro Mecânico / Clínico Biomédico
-- 🖨️ Impressão 3D
-- 💡 Modelagem 3D
+- 💻 Junior Developer
+- 👨‍🔬 Mechanical Engineer / Biomedical Clinic
+- 🖨️ 3D printing
+- 💡 3D Modeling
 - 🚴 Mountain Bike
 
 
@@ -17,7 +17,7 @@
 </div>
   
 #
-<h2 style="display: flex;justify-content: center;">Tecnologias que eu uso no meu dia</h2>
+<h2 style="display: flex;justify-content: center;">Technologies I use in my day</h2>
 
 <img align="center" alt="JavaScript" height="30" width="40" src="./img/icons/javascript.svg">
 <img align="center" alt="Typescript" height="30" width="40" src="./img/icons/typescript.svg">
@@ -37,7 +37,7 @@
 
 #
 
-<h2 style="display: flex;justify-content: center;">Como me encontrar</h2>
+<h2 style="display: flex;justify-content: center;">How to find me</h2>
 <div style="display: flex;justify-content: center"> 
   <a href="https://www.linkedin.com/in/seileremerson/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
