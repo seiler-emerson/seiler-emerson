@@ -6,7 +6,10 @@
 - 💡 Modelagem 3D
 - 🚴 Mountain Bike
 
-
+  <img
+      src="https://komarev.com/ghpvc/?username=seiler-emerson"
+      alt="seiler-emerson"
+    />
 
 #
 
