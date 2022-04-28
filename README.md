@@ -1,9 +1,9 @@
-### Olá! Eu sou o Emerson Seiler 👋
+## Hi! I am Emerson Seiler 👋
 
-- 💻 Desenvolvedor Júnior
-- 👨‍🔬 Engenheiro Mecânico / Clínico Biomédico
-- 🖨️ Impressão 3D
-- 💡 Modelagem 3D
+- 💻 Junior Developer
+- 👨‍🔬 Mechanical Engineer / Biomedical Clinic
+- 🖨️ 3D printing
+- 💡 3D Modeling
 - 🚴 Mountain Bike
 
   <img
@@ -21,8 +21,9 @@
 </div>
   
 #
-<h2 style="display: flex;justify-content: center;">Tecnologias que eu uso no meu dia</h2>
+## Technologies I use in my day
 
+<img align="center" alt="Java" height="30" width="30" src="./img/icons/java.svg">
 <img align="center" alt="JavaScript" height="30" width="40" src="./img/icons/javascript.svg">
 <img align="center" alt="Typescript" height="30" width="40" src="./img/icons/typescript.svg">
 <img align="center" alt="html5" height="30" width="40" src="./img/icons/html5.svg">
@@ -32,23 +33,22 @@
 <img align="center" alt="Linux" height="30" width="40" src="./img/icons/linux.svg">
 <img align="center" alt="Trello" height="30" width="40" src="./img/icons/trello.svg">
 <img align="center" alt="Notion" height="30" width="30" src="./img/icons/notion.png">
-<img align="center" alt="Photoshop" height="30" width="40" src="./img/icons/photoshop.svg">
-<img align="center" alt="CorelDraw" height="30" width="30" src="./img/icons/corel.png">
-<img align="center" alt="JavaScript" height="30" width="30" src="./img/icons/fusion360.jfif">
-
+<!-- <img align="center" alt="Photoshop" height="30" width="40" src="./img/icons/photoshop.svg"> -->
+<!-- <img align="center" alt="CorelDraw" height="30" width="30" src="./img/icons/corel.png"> -->
+<!-- <img align="center" alt="JavaScript" height="30" width="30" src="./img/icons/fusion360.jfif"> -->
   
 <br/>
 
 #
 
-<h2 style="display: flex;justify-content: center;">Como me encontrar</h2>
-<div style="display: flex;justify-content: center"> 
-  <a href="https://www.linkedin.com/in/seileremerson/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-</div>
+## How to find me
+
+<a href="https://www.linkedin.com/in/seileremerson/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
 
 <br/>
 
 #
   
+![Snake animation](https://github.com/seiler-emerson/seiler-emerson/blob/output/github-contribution-grid-snake.svg)
