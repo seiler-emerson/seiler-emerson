@@ -11,7 +11,6 @@
       alt="seiler-emerson"
     />
 
-
 #
 
 <div align="center">
