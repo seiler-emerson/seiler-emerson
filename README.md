@@ -42,7 +42,7 @@
 - IDEs
 
   ![Eclipse](https://img.shields.io/badge/-Eclipse-2D2056?style=flat&logo=eclipse&logoColor=FFFFFF)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-26B1F2?style=flat&logo=visual-studio-code&logoColor=FFFFFF)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-26B1F2?style=flat&logo=visual-studio-code&logoColor=FFFFFF)&nbsp;
 
 - Scrum Methodology
 
@@ -51,9 +51,9 @@
 
 - SO
 
-  ![Macos](https://img.shields.io/badge/-MacOS-A123E0?style=flat&logo=apple&logoColor=FFFFFF)&nbsp;
-  ![Linux](https://img.shields.io/badge/-Linux-FFFFFF?style=flat&logo=linux&logoColor=000000)&nbsp;
+  ![Macos](https://img.shields.io/badge/-MacOS-FFFFFF?style=flat&logo=apple&logoColor=000000)&nbsp;
   ![Windows](https://img.shields.io/badge/-Windows-007AD4?style=flat&logo=windows&logoColor=FFFFFF)&nbsp;
+  ![Linux](https://img.shields.io/badge/-Linux-FFFFFF?style=flat&logo=linux&logoColor=000000)&nbsp;
 
 - Design
 
