@@ -1,23 +1,20 @@
-## Hello! I'm Emerson Seiler 👋
+## Olá! Eu sou Emerson Seiler 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-0E76A8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seileremerson/)
 [![E-mail Badge](https://img.shields.io/badge/-Gmail-BB001B?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=seiler.emerson@gmail.com&su=VAGA+-+A+vaga+%C3%A9+sua!&body=Ol%C3%A1+Emerson%20Seiler,+Tudo+bem?+Voc%C3%AA+foi+selecionado!&tf=cm)
 
-### Good to see you here! &nbsp;![](https://komarev.com/ghpvc/?username=seiler-emerson)
+### Contente em te ver aqui! &nbsp;![](https://komarev.com/ghpvc/?username=seiler-emerson)
 ---
-    I have a degree in Mechanical Engineering and a postgraduate degree in Biomedical Engineering with an emphasis on Clinical Engineering. 🎓🏛
-    I am a passionate maker who is always willing to learn and work with technology and different things. ⚙️💡
-    I love exploring new technologies, I also love teaching. 🚀👨🏻‍💻
-    My hobbies usually involve computer, 3D printer and my mountain bike. 🖥️ 🖨️ 🚴🏼
-    Currently I'm studying Java/Angular/Database in the program Entra21 - Blusoft. 👨🏻‍🎓
-    Looking for an opportunity in the technology field. 👨🏻‍💼🙋🏻‍♂️
-#
-## ☕ &nbsp;Do I deserve a coffee?
-
-<a href="https://www.buymeacoffee.com/seileremerson" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+    Sou formado em Engenharia Mecânica e pós-graduado em Engenharia Biomédica com Ênfase em Engenharia Clínica. 🎓🏛
+    Sou um maker apaixonado que está sempre disposto a aprender e trabalhar com tecnologia e coisas diferentes. ⚙️💡
+    Adoro explorar novas tecnologias, também adoro ensinar. 🚀👨🏻‍💻
+    Meus hobbies geralmente envolvem computador, impressora 3D e minha mountain bike. 🖥️ 🖨️ 🚴🏼
+    Atualmente estou estudando Java/Angular/Database no programa Entra21 - Blusoft. 👨🏻‍🎓
+    Procurando uma oportunidade na área de tecnologia. 👨🏻‍💼🙋🏻‍♂️
 
 #
 
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -36,7 +33,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=000000)&nbsp;
 
 - IDEs
-  <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
   ![Eclipse](https://img.shields.io/badge/-Eclipse-2D2056?style=flat&logo=eclipse&logoColor=FFFFFF)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-26B1F2?style=flat&logo=visual-studio-code&logoColor=FFFFFF)&nbsp;
@@ -66,7 +62,7 @@
 
 
 <details>	
-  <summary><b>⚡&nbsp; Github Stats</b></summary>
+  <summary><b>⚡ Github Stats</b></summary>
   <!-- MEUS STATUS  -->
   <br />
   <a href="https://github.com/seiler-emerson">
@@ -76,14 +72,14 @@
 </details>
 
 <details>	
-  <summary><b>☄️&nbsp; Github Streaks</b></summary>
+  <summary><b>☄️ Github Streaks</b></summary>
   <!-- MINHA ROTINA -->
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=seiler-emerson&hide_border=true&theme=dark" />
 </details>
 
 <details>
-  <summary><b>👨🏻‍🚀 &nbsp; My Projects</b></summary>
+  <summary><b>🧑‍🚀 My Projects</b></summary>
   
   | Projects 💻 | Repositories | Test Here |
   |------|---------|---------|
@@ -102,7 +98,7 @@
  
 <details>	
   <br />
-  <summary><b>🛠️&nbsp; My Setup</b></summary>
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
 
     - OS: MacOS Monterey / Windows10 / POP OS 22.04
     - Desktop: i5 10400 / 48gb
@@ -111,6 +107,6 @@
 </details>
 
 #
-## 🐍&nbsp; My Virtual Pet
+# My Pet
   
 ![Snake animation](https://github.com/seiler-emerson/seiler-emerson/blob/output/github-contribution-grid-snake.svg)
