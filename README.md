@@ -1,7 +1,7 @@
 ## Hello! I'm Emerson Seiler 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-0E76A8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seileremerson/)
-[![E-mail Badge](https://img.shields.io/badge/-Gmail-BB001B?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=seiler.emerson@gmail.com&su=VAGA+-+A+vaga+%C3%A9+sua!&body=Ol%C3%A1+Emerson%20Seiler,+Tudo+bem?+Voc%C3%AA+foi+selecionado!&tf=cm)
+[![E-mail Badge](https://img.shields.io/badge/-Gmail-BB001B?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=seiler.emerson@gmail.com&su=HELLO+-+Emerson!&body=Ol%C3%A1+Emerson%20Seiler,+Tudo+bem?+Voc%C3%AA+?&tf=cm)
 
 ### Good to see you here! &nbsp;![](https://komarev.com/ghpvc/?username=seiler-emerson)
 
