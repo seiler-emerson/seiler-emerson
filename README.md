@@ -46,7 +46,7 @@
 - IDEs
 
   ![Eclipse](https://img.shields.io/badge/-Eclipse-2D2056?style=flat&logo=eclipse&logoColor=FFFFFF)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-26B1F2?style=flat&logo=visual-studio-code&logoColor=FFFFFF)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-26B1F2?style=flat&logo=visual-studio-code&logoColor=FFFFFF)&nbsp;
 
 - Scrum Methodology
 
