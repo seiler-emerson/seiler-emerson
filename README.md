@@ -4,7 +4,7 @@
 [![E-mail Badge](https://img.shields.io/badge/-Gmail-BB001B?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=seiler.emerson@gmail.com&su=VAGA+-+A+vaga+%C3%A9+sua!&body=Ol%C3%A1+Emerson%20Seiler,+Tudo+bem?+Voc%C3%AA+foi+selecionado!&tf=cm)
 
 ### Good to see you here! &nbsp;![](https://komarev.com/ghpvc/?username=seiler-emerson)
----
+
     I have a degree in Mechanical Engineering and a postgraduate degree in
     Biomedical Engineering with an emphasis on Clinical Engineering. 🎓🏛
     I am a passionate maker who is always willing to learn and work with
@@ -13,8 +13,8 @@
     My hobbies usually involve computer, 3D printer and my mountain bike. 🖥️ 🖨️ 🚴🏼
     Currently I'm studying Java/Angular/Database in the program Entra21 - Blusoft. 👨🏻‍🎓
     Looking for an opportunity in the technology field. 👨🏻‍💼🙋🏻‍♂️
-#
-## ☕ &nbsp;Do I deserve a coffee?
+
+## ☕ &nbsp; Can I have a coffee please?
 
 <a href="https://www.buymeacoffee.com/seileremerson" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
@@ -68,7 +68,7 @@
 
 <details>
   <summary><b>👨🏻‍🚀 &nbsp; My Projects</b></summary>
-  
+
   | Projects 💻 | Repositories | Test Here |
   |------|---------|---------|
   |Logical Entra21|[Logical Entra21](https://github.com/seiler-emerson/Entra21_Logica_Java_2022)|[▶️](https://github.com/seiler-emerson/Entra21_Logica_Java_2022)
