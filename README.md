@@ -71,15 +71,15 @@
 
   | Projects 💻 | Repositories | Test Here |
   |------|---------|---------|
-  |Logical Entra21|[Logical Entra21](https://github.com/seiler-emerson/Entra21_Logica_Java_2022)|[▶️](https://github.com/seiler-emerson/Entra21_Logica_Java_2022)
-  |Exercises Java|[Exercises Java](https://github.com/seiler-emerson/Exercicios_Java)|[▶️](https://github.com/seiler-emerson/Exercicios_Java)
-  |Helpser Entra21|[Helpser Entra21](https://github.com/seiler-emerson/helpers_entra21_2022)|[▶️](https://github.com/seiler-emerson/helpers_entra21_2022)
-  |HiremeFlix|[HiremeFlix](https://github.com/seiler-emerson/hiremeflix)|[▶️](https://seiler-emerson.github.io/hiremeflix/)
-  |ADS Manager|[ADS Manager](https://github.com/seiler-emerson/proway_capgemini_2021)|[▶️](https://seiler-emerson.github.io/proway_capgemini_2021/)
-  |Pomodoro|[Pomodoro](https://github.com/seiler-emerson/pomodoro)|[▶️](https://seiler-emerson.github.io/pomodoro/)
-  |Virtual Keyboard|[Virtual Keyboard](https://github.com/seiler-emerson/keyboard_piano)|[▶️](https://seiler-emerson.github.io/keyboard_piano/)
-  |Retro Painting|[Retro Painting](https://github.com/seiler-emerson/retro_painting)|[▶️](https://seiler-emerson.github.io/retro_painting/)
-  |Exercises Curso em Vídeo|[Exercises Curso em Vídeo](https://github.com/seiler-emerson/exercicios_JavaScript_CursoEmVideo)|[▶️](https://github.com/seiler-emerson/exercicios_JavaScript_CursoEmVideo)
+  |💡&nbsp; Logical Entra21|[Logical Entra21](https://github.com/seiler-emerson/Entra21_Logica_Java_2022)|[▶️](https://github.com/seiler-emerson/Entra21_Logica_Java_2022)
+  |✍🏻&nbsp; Exercises Java|[Exercises Java](https://github.com/seiler-emerson/Exercicios_Java)|[▶️](https://github.com/seiler-emerson/Exercicios_Java)
+  |🆘&nbsp; Helpser Entra21|[Helpser Entra21](https://github.com/seiler-emerson/helpers_entra21_2022)|[▶️](https://github.com/seiler-emerson/helpers_entra21_2022)
+  |👨🏻‍💼&nbsp; HiremeFlix|[HiremeFlix](https://github.com/seiler-emerson/hiremeflix)|[▶️](https://seiler-emerson.github.io/hiremeflix/)
+  |🎥&nbsp; ADS Manager|[ADS Manager](https://github.com/seiler-emerson/proway_capgemini_2021)|[▶️](https://seiler-emerson.github.io/proway_capgemini_2021/)
+  |⏱️&nbsp; Pomodoro|[Pomodoro](https://github.com/seiler-emerson/pomodoro)|[▶️](https://seiler-emerson.github.io/pomodoro/)
+  |🎹&nbsp; Virtual Keyboard|[Virtual Keyboard](https://github.com/seiler-emerson/keyboard_piano)|[▶️](https://seiler-emerson.github.io/keyboard_piano/)
+  |🎨&nbsp; Retro Painting|[Retro Painting](https://github.com/seiler-emerson/retro_painting)|[▶️](https://seiler-emerson.github.io/retro_painting/)
+  |✍🏻&nbsp; Exercises Curso em Vídeo|[Exercises Curso em Vídeo](https://github.com/seiler-emerson/exercicios_JavaScript_CursoEmVideo)|[▶️](https://github.com/seiler-emerson/exercicios_JavaScript_CursoEmVideo)
 
   <br />
 </details>
