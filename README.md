@@ -68,6 +68,7 @@
 
 <details>
   <summary><b>👨🏻‍🚀 &nbsp; My Projects</b></summary>
+  
   | Projects 💻 | Repositories | Test Here |
   |------|---------|---------|
   |Logical Entra21|[Logical Entra21](https://github.com/seiler-emerson/Entra21_Logica_Java_2022)|[▶️](https://github.com/seiler-emerson/Entra21_Logica_Java_2022)
