@@ -110,7 +110,7 @@
   <br />
   <summary><b>🛠️&nbsp; My Setup</b></summary>
 
-    - OS: MacOS Monterey / Windows10 / POP OS 22.04
+    - OS: MacOS Monterey (👀 Hackintosh)/ Windows10 / POP OS 22.04
     - Desktop: i5 10400 / 48gb
     - Code Editor: Eclipse / VS Code
 
