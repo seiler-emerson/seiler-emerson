@@ -15,8 +15,15 @@
     Looking for an opportunity in the technology field. 👨🏻‍💼🙋🏻‍♂️
 
 ## ☕ &nbsp; Can I have a coffee please?
+  <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+
+</br>
 
 <a href="https://www.buymeacoffee.com/seileremerson" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
+</br>
+</br>
+
 
 #
 
@@ -38,7 +45,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=000000)&nbsp;
 
 - IDEs
-  <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
   ![Eclipse](https://img.shields.io/badge/-Eclipse-2D2056?style=flat&logo=eclipse&logoColor=FFFFFF)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-26B1F2?style=flat&logo=visual-studio-code&logoColor=FFFFFF)&nbsp;
