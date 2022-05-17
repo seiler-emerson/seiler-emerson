@@ -5,8 +5,10 @@
 
 ### Good to see you here! &nbsp;![](https://komarev.com/ghpvc/?username=seiler-emerson)
 ---
-    I have a degree in Mechanical Engineering and a postgraduate degree in Biomedical Engineering with an emphasis on Clinical Engineering. 🎓🏛
-    I am a passionate maker who is always willing to learn and work with technology and different things. ⚙️💡
+    I have a degree in Mechanical Engineering and a postgraduate degree in
+    Biomedical Engineering with an emphasis on Clinical Engineering. 🎓🏛
+    I am a passionate maker who is always willing to learn and work with
+    technology and different things. ⚙️💡
     I love exploring new technologies, I also love teaching. 🚀👨🏻‍💻
     My hobbies usually involve computer, 3D printer and my mountain bike. 🖥️ 🖨️ 🚴🏼
     Currently I'm studying Java/Angular/Database in the program Entra21 - Blusoft. 👨🏻‍🎓
@@ -87,15 +89,15 @@
   
   | Projects 💻 | Repositories | Test Here |
   |------|---------|---------|
-  |Logical Entra21|[Repositories](https://github.com/seiler-emerson/Entra21_Logica_Java_2022)|[Test Here](LIhttps://github.com/seiler-emerson/Entra21_Logica_Java_2022NK)
-  |Exercises Java|[Repositories](https://github.com/seiler-emerson/Exercicios_Java)|[Test Here](https://github.com/seiler-emerson/Exercicios_Java)
-  |Helpser Entra21|[Repositories](https://github.com/seiler-emerson/helpers_entra21_2022)|[Test Here](https://github.com/seiler-emerson/helpers_entra21_2022)
-  |HiremeFlix|[Repositories](https://github.com/seiler-emerson/hiremeflix)|[Test Here](https://seiler-emerson.github.io/hiremeflix/)
-  |ADS Manager|[Repositories](https://github.com/seiler-emerson/proway_capgemini_2021)|[Test Here](https://seiler-emerson.github.io/proway_capgemini_2021/)
-  |Pomodoro|[Repositories](https://github.com/seiler-emerson/pomodoro)|[Test Here](https://seiler-emerson.github.io/pomodoro/)
-  |Virtual Keyboard|[Repositories](https://github.com/seiler-emerson/keyboard_piano)|[Test Here](https://seiler-emerson.github.io/keyboard_piano/)
-  |Retro Painting|[Repositories](https://github.com/seiler-emerson/retro_painting)|[Test Here](https://seiler-emerson.github.io/retro_painting/)
-  |Exercises Curso em Vídeo|[Repositories](https://github.com/seiler-emerson/exercicios_JavaScript_CursoEmVideo)|[Test Here](https://github.com/seiler-emerson/exercicios_JavaScript_CursoEmVideo)
+  |Logical Entra21|[Logical Entra21](https://github.com/seiler-emerson/Entra21_Logica_Java_2022)|[▶️](LIhttps://github.com/seiler-emerson/Entra21_Logica_Java_2022)
+  |Exercises Java|[Exercises Java](https://github.com/seiler-emerson/Exercicios_Java)|[▶️](https://github.com/seiler-emerson/Exercicios_Java)
+  |Helpser Entra21|[Helpser Entra21](https://github.com/seiler-emerson/helpers_entra21_2022)|[▶️](https://github.com/seiler-emerson/helpers_entra21_2022)
+  |HiremeFlix|[HiremeFlix](https://github.com/seiler-emerson/hiremeflix)|[▶️](https://seiler-emerson.github.io/hiremeflix/)
+  |ADS Manager|[ADS Manager](https://github.com/seiler-emerson/proway_capgemini_2021)|[▶️](https://seiler-emerson.github.io/proway_capgemini_2021/)
+  |Pomodoro|[Pomodoro](https://github.com/seiler-emerson/pomodoro)|[▶️](https://seiler-emerson.github.io/pomodoro/)
+  |Virtual Keyboard|[Virtual Keyboard](https://github.com/seiler-emerson/keyboard_piano)|[▶️](https://seiler-emerson.github.io/keyboard_piano/)
+  |Retro Painting|[Retro Painting](https://github.com/seiler-emerson/retro_painting)|[▶️](https://seiler-emerson.github.io/retro_painting/)
+  |Exercises Curso em Vídeo|[Exercises Curso em Vídeo](https://github.com/seiler-emerson/exercicios_JavaScript_CursoEmVideo)|[▶️](https://github.com/seiler-emerson/exercicios_JavaScript_CursoEmVideo)
 
   <br />
 </details>
