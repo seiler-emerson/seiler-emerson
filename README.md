@@ -66,7 +66,7 @@
 
 ### Projects and Dev Stuffs:
 
-<details>
+<details open>
   <summary><b>👨🏻‍🚀 &nbsp; My Projects</b></summary>
 
   | Projects 💻 | Repositories | Test Here |
