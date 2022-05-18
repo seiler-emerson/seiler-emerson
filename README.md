@@ -79,7 +79,7 @@
   |⏱️&nbsp; Pomodoro|[Pomodoro](https://github.com/seiler-emerson/pomodoro)|[▶️](https://seiler-emerson.github.io/pomodoro/)
   |🎹&nbsp; Virtual Keyboard|[Virtual Keyboard](https://github.com/seiler-emerson/keyboard_piano)|[▶️](https://seiler-emerson.github.io/keyboard_piano/)
   |🎨&nbsp; Retro Painting|[Retro Painting](https://github.com/seiler-emerson/retro_painting)|[▶️](https://seiler-emerson.github.io/retro_painting/)
-  |✍🏻&nbsp; Exercises CV|[Exercises Curso em Vídeo](https://github.com/seiler-emerson/exercicios_JavaScript_CursoEmVideo)|[▶️](https://github.com/seiler-emerson/exercicios_JavaScript_CursoEmVideo)
+  |✍🏻&nbsp; Exercises JavaScript|[Exercises JavaScript](https://github.com/seiler-emerson/exercicios_JavaScript_CursoEmVideo)|[▶️](https://github.com/seiler-emerson/exercicios_JavaScript_CursoEmVideo)
 
   <br />
 </details>
