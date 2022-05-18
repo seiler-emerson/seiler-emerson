@@ -5,13 +5,13 @@
 
 ### Good to see you here! &nbsp;![](https://komarev.com/ghpvc/?username=seiler-emerson)
 
-    I have a degree in Mechanical Engineering and a postgraduate degree in
-    Biomedical Engineering with an emphasis on Clinical Engineering. 🎓🏛
+    I have a bachelor's degree in Mechanical Engineering and a postgraduate
+    degree in Biomedical Engineering with an emphasis on Clinical Engineering. 🎓🏛
     I am a passionate maker who is always willing to learn and work with
     technology and different things. ⚙️💡
     I love exploring new technologies, I also love teaching. 🚀👨🏻‍💻
     My hobbies usually involve computer, 3D printer and my mountain bike. 🖥️ 🖨️ 🚴🏼
-    Currently I'm studying Java/Angular/Database in the program Entra21 - Blusoft. 👨🏻‍🎓
+    I am currently studying Java/Angular/Database in the program Entra21 - Blusoft. 👨🏻‍🎓
     Looking for an opportunity in the technology field. 👨🏻‍💼🙋🏻‍♂️
 
 ## ☕ &nbsp; Can I have a coffee please?
