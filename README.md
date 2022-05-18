@@ -20,7 +20,7 @@
 
 <img src="./img/gif/boy_machine.gif" width="250" />
 
-#
+
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -61,7 +61,7 @@
   ![CorelDraw](https://img.shields.io/badge/-CorelDraw-B2D934?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAPCAYAAAAyPTUwAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADPSURBVHgBjZLBDcIwEARPCX/cAX7yI1RASkgJdEAp0AF0AFRA6MA8+TkVkA5gLfbIOUKIlUa24/XexUkpuWrgwRbcwRxE3Sw4OrChuQINONJ4YcBHa/DgPG0+yQzsSFMwLSlwrEzIErRgoW14GqJpScy8p8cVJtFzjMYceSBqcuDCllf1fH5TsyYE9n8dJa+4d1BzC840a1vBtBBtcj9KSep4uGOYTEzJE5jKcBtp7VN5NZSSq6PZ86WCqfRVTvK7/qla3p96/4/ZyfD3ZXoBvzEwpRIZkDkAAAAASUVORK5CYII=)&nbsp;
 
 
-#
+
 
 
 ## 🚀&nbsp; Projects and Dev Stuffs:
@@ -111,7 +111,7 @@
 
 </details>
 
-#
+
 ## 🐍&nbsp; My Virtual Pet
   
 ![Snake animation](https://github.com/seiler-emerson/seiler-emerson/blob/output/github-contribution-grid-snake.svg)
