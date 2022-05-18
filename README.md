@@ -19,7 +19,7 @@
 
 </br>
 
-<a href="https://www.buymeacoffee.com/seileremerson" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://www.paypal.com/donate/?hosted_button_id=TTDDVB4XUZ4CC" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 </br>
 
