@@ -19,7 +19,7 @@
 
 </br>
 
-<a href="https://www.paypal.com/donate/?hosted_button_id=TTDDVB4XUZ4CC" target="_blank"><img src="./img/button/coffe_button.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://www.paypal.com/donate/?hosted_button_id=TTDDVB4XUZ4CC" target="_blank"><img src="./img/button/coffe_button.png" alt="Buy Me A Coffee" height="70px" width="250px" ></a>
 
 </br>
 
