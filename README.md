@@ -16,16 +16,11 @@
 
 ## ☕ &nbsp; Can I have a coffee please?
 
-</br>
-
 <a href="https://www.paypal.com/donate/?hosted_button_id=TTDDVB4XUZ4CC" target="_blank"><img src="./img/button/coffe_button.png" alt="Buy Me A Coffee" height="70px" width="250px" ></a>
 
-  <img src="./img/gif/boy_machine.gif" width="250" />
-</br>
-
+<img src="./img/gif/boy_machine.gif" width="250" />
 
 #
-
 
 ## 🛠 &nbsp;Tech Stack
 
