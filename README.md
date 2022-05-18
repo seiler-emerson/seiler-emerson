@@ -15,11 +15,11 @@
     Looking for an opportunity in the technology field. 👨🏻‍💼🙋🏻‍♂️
 
 ## ☕ &nbsp; Can I have a coffee please?
-  <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+  <img align='right' src="./img/gif/boy_machine.gif" width="230" />
 
 </br>
 
-<a href="https://www.paypal.com/donate/?hosted_button_id=TTDDVB4XUZ4CC" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://www.paypal.com/donate/?hosted_button_id=TTDDVB4XUZ4CC" target="_blank"><img src="./img/button/coffe_button.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 </br>
 
