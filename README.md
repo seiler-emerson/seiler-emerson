@@ -74,6 +74,7 @@
 
   | Projects 💻 | Repositories | Test Here |
   |------|---------|---------|
+  |🗃️&nbsp; POO Java Entra21|[POO Java Entra21](https://github.com/seiler-emerson/Entra21_POO_Java_2022)|[▶️](https://github.com/seiler-emerson/Entra21_POO_Java_2022)
   |💡&nbsp; Logical Entra21|[Logical Entra21](https://github.com/seiler-emerson/Entra21_Logica_Java_2022)|[▶️](https://github.com/seiler-emerson/Entra21_Logica_Java_2022)
   |✍🏻&nbsp; Exercises Java|[Exercises Java](https://github.com/seiler-emerson/Exercicios_Java)|[▶️](https://github.com/seiler-emerson/Exercicios_Java)
   |🆘&nbsp; Helpers Entra21|[Helpers Entra21](https://github.com/seiler-emerson/helpers_entra21_2022)|[▶️](https://github.com/seiler-emerson/helpers_entra21_2022)
