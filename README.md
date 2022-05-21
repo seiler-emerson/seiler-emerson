@@ -78,6 +78,7 @@
   |💡&nbsp; Logical Entra21|[Logical Entra21](https://github.com/seiler-emerson/Entra21_Logica_Java_2022)|[▶️](https://github.com/seiler-emerson/Entra21_Logica_Java_2022)
   |✍🏻&nbsp; Exercises Java|[Exercises Java](https://github.com/seiler-emerson/Exercicios_Java)|[▶️](https://github.com/seiler-emerson/Exercicios_Java)
   |🆘&nbsp; Helpers Entra21|[Helpers Entra21](https://github.com/seiler-emerson/helpers_entra21_2022)|[▶️](https://github.com/seiler-emerson/helpers_entra21_2022)
+  |🇺🇸&nbsp; English Entra21|[English Entra21](https://github.com/seiler-emerson/Entra21_English_Java_2022)|[▶️](https://github.com/seiler-emerson/Entra21_English_Java_2022)
   |👨🏻‍💼&nbsp; HiremeFlix|[HiremeFlix](https://github.com/seiler-emerson/hiremeflix)|[▶️](https://seiler-emerson.github.io/hiremeflix/)
   |🎥&nbsp; ADS Manager|[ADS Manager](https://github.com/seiler-emerson/proway_capgemini_2021)|[▶️](https://seiler-emerson.github.io/proway_capgemini_2021/)
   |⏱️&nbsp; Pomodoro|[Pomodoro](https://github.com/seiler-emerson/pomodoro)|[▶️](https://seiler-emerson.github.io/pomodoro/)
