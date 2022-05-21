@@ -75,7 +75,7 @@
   |💡&nbsp; Logical Entra21|[<div align="center">▶️</div>](https://github.com/seiler-emerson/Entra21_Logica_Java_2022)
   |✍🏻&nbsp; Exercises Java|[<div align="center">▶️</div>](https://github.com/seiler-emerson/Exercicios_Java)|[▶️](https://github.com/seiler-emerson/Exercicios_Java)
   |🇺🇸&nbsp; English Entra21|[<div align="center">▶️</div>](https://github.com/seiler-emerson/Entra21_English_Java_2022)
-  |📈&nbsp; Agile Methodologies|[<div align="center">▶️</div>](https://github.com/seiler-emerson/Entra21_English_Java_2022)
+  |📈&nbsp; Agile Methodologies|[<div align="center">▶️</div>](https://github.com/seiler-emerson/Entra21_Agile_Methodologies_Java_2022)
   |🆘&nbsp; Helpers Entra21|[<div align="center">▶️</div>](https://github.com/seiler-emerson/helpers_entra21_2022)
 
 
