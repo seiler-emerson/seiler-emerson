@@ -64,7 +64,22 @@
   ![CorelDraw](https://img.shields.io/badge/-CorelDraw-B2D934?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAPCAYAAAAyPTUwAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADPSURBVHgBjZLBDcIwEARPCX/cAX7yI1RASkgJdEAp0AF0AFRA6MA8+TkVkA5gLfbIOUKIlUa24/XexUkpuWrgwRbcwRxE3Sw4OrChuQINONJ4YcBHa/DgPG0+yQzsSFMwLSlwrEzIErRgoW14GqJpScy8p8cVJtFzjMYceSBqcuDCllf1fH5TsyYE9n8dJa+4d1BzC840a1vBtBBtcj9KSep4uGOYTEzJE5jKcBtp7VN5NZSSq6PZ86WCqfRVTvK7/qla3p96/4/ZyfD3ZXoBvzEwpRIZkDkAAAAASUVORK5CYII=)&nbsp;
 
 
+## 2️⃣1️⃣&nbsp; Entra21 Program
 
+<details open>
+  <summary><b>📐 🧮 📚 &nbsp; My Studies</b></summary>
+
+  | Projects 💻 | Repositories |
+  |------|---------|
+  |🗃️&nbsp; POO Java Entra21|[▶️](https://github.com/seiler-emerson/Entra21_POO_Java_2022)
+  |💡&nbsp; Logical Entra21|[▶️](https://github.com/seiler-emerson/Entra21_Logica_Java_2022)
+  |✍🏻&nbsp; Exercises Java|[▶️](https://github.com/seiler-emerson/Exercicios_Java)|[▶️](https://github.com/seiler-emerson/Exercicios_Java)
+  |🇺🇸&nbsp; English Entra21|[▶️](https://github.com/seiler-emerson/Entra21_English_Java_2022)
+  |🆘&nbsp; Helpers Entra21|[▶️](https://github.com/seiler-emerson/helpers_entra21_2022)
+
+
+  <br />
+</details>
 
 
 ## 🚀&nbsp; Projects and Dev Stuffs:
@@ -74,11 +89,6 @@
 
   | Projects 💻 | Repositories | Test Here |
   |------|---------|---------|
-  |🗃️&nbsp; POO Java Entra21|[POO Java Entra21](https://github.com/seiler-emerson/Entra21_POO_Java_2022)|[▶️](https://github.com/seiler-emerson/Entra21_POO_Java_2022)
-  |💡&nbsp; Logical Entra21|[Logical Entra21](https://github.com/seiler-emerson/Entra21_Logica_Java_2022)|[▶️](https://github.com/seiler-emerson/Entra21_Logica_Java_2022)
-  |✍🏻&nbsp; Exercises Java|[Exercises Java](https://github.com/seiler-emerson/Exercicios_Java)|[▶️](https://github.com/seiler-emerson/Exercicios_Java)
-  |🆘&nbsp; Helpers Entra21|[Helpers Entra21](https://github.com/seiler-emerson/helpers_entra21_2022)|[▶️](https://github.com/seiler-emerson/helpers_entra21_2022)
-  |🇺🇸&nbsp; English Entra21|[English Entra21](https://github.com/seiler-emerson/Entra21_English_Java_2022)|[▶️](https://github.com/seiler-emerson/Entra21_English_Java_2022)
   |👨🏻‍💼&nbsp; HiremeFlix|[HiremeFlix](https://github.com/seiler-emerson/hiremeflix)|[▶️](https://seiler-emerson.github.io/hiremeflix/)
   |🎥&nbsp; ADS Manager|[ADS Manager](https://github.com/seiler-emerson/proway_capgemini_2021)|[▶️](https://seiler-emerson.github.io/proway_capgemini_2021/)
   |⏱️&nbsp; Pomodoro|[Pomodoro](https://github.com/seiler-emerson/pomodoro)|[▶️](https://seiler-emerson.github.io/pomodoro/)
