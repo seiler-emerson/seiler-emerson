@@ -96,6 +96,7 @@
   |🎹&nbsp; Virtual Keyboard|[Virtual Keyboard](https://github.com/seiler-emerson/keyboard_piano)|[<div align="center">▶️</div>](https://seiler-emerson.github.io/keyboard_piano/)
   |🎨&nbsp; Retro Painting|[Retro Painting](https://github.com/seiler-emerson/retro_painting)|[<div align="center">▶️</div>](https://seiler-emerson.github.io/retro_painting/)
   |✍🏻&nbsp; Exercises JavaScript|[Exercises JavaScript](https://github.com/seiler-emerson/exercicios_JavaScript_CursoEmVideo)|[<div align="center">▶️</div>](https://github.com/seiler-emerson/exercicios_JavaScript_CursoEmVideo)
+  |🎹&nbsp; Conversion Keyboard <br> CTK485 MIDI Controller|[Conversion Keyboard <br> CTK485 MIDI Controller](https://github.com/seiler-emerson/CTK485_Arduino_Mega)|[<div align="center">▶️</div>](https://github.com/seiler-emerson/CTK485_Arduino_Mega)
 
   <br />
 </details>
