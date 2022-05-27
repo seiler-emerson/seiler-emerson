@@ -105,6 +105,14 @@
 </details>
 
 <details>	
+  <br />
+  <summary><b>🎧&nbsp; Song Suggestion</b></summary>
+  
+![Emerson's Song Suggestion](https://spotify-recently-played-readme.vercel.app/api?user=pund1z6umyoy9qfm79u1g31xv)
+
+</details>
+
+<details>	
   <summary><b>⚡&nbsp; Github Stats</b></summary>
   <!-- MEUS STATUS  -->
   <br />
