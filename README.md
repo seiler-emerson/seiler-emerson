@@ -93,6 +93,7 @@
 
   | Projects 💻 | Repositories | Test Here |
   |------|---------|---------|
+  |🎨&nbsp; My Portfolio|[<div align="center">🗂</div>](https://github.com/seiler-emerson/seiler-emerson.github.io)|[<div align="center">▶️</div>](https://seiler-emerson.github.io/)
   |👨🏻‍💼&nbsp; HiremeFlix|[<div align="center">🗂</div>](https://github.com/seiler-emerson/hiremeflix)|[<div align="center">▶️</div>](https://seiler-emerson.github.io/hiremeflix/)
   |🎥&nbsp; ADS Manager|[<div align="center">🗂</div>](https://github.com/seiler-emerson/proway_capgemini_2021)|[<div align="center">▶️</div>](https://seiler-emerson.github.io/proway_capgemini_2021/)
   |⏱️&nbsp; Pomodoro|[<div align="center">🗂</div>](https://github.com/seiler-emerson/pomodoro)|[<div align="center">▶️</div>](https://seiler-emerson.github.io/pomodoro/)
