@@ -119,7 +119,7 @@
   <!-- MEUS STATUS  -->
   <br />
   <a href="https://github.com/seiler-emerson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seiler-emerson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seiler-emerson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seiler-emerson&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </details>
