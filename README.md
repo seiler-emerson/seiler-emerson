@@ -74,6 +74,7 @@
 
   | Subjects 📚 | Repositories |
   |------|---------|
+  |🏥&nbsp; Project EMR|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_Project_EMR_2022)|
   |⚠️&nbsp; Advanced Java|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_Java_Avancado_2022)|
   |🗃️&nbsp; POO Java |[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_POO_Java_2022)|
   |💡&nbsp; Logical|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_Logica_Java_2022)|
