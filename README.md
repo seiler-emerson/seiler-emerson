@@ -145,4 +145,4 @@
 
 ## 🐍&nbsp; My Virtual Pet
   
-![Snake animation](https://github.com/seiler-emerson/seiler-emerson/blob/output/github-contribution-grid-calendar.svg)
+![Snake animation](https://github.com/seiler-emerson/seiler-emerson/blob/output/github-contribution-grid-snake-calendar.svg)
