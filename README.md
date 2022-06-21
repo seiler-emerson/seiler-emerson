@@ -128,7 +128,6 @@
 
 </details>
 
-  <br>
 
 ## ☕ &nbsp; Can I have a coffee please?
 
@@ -142,7 +141,6 @@
 
 <!-- <img src="./img/gif/boy_machine.gif" width="250" /> -->
 
-<br>
 
 ## 🐍&nbsp; My Virtual Pet
   
