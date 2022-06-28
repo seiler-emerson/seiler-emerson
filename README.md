@@ -140,7 +140,7 @@
 
 
 <!-- <img src="./img/gif/boy_machine.gif" width="250" /> -->
-
+<!-- image -->
 
 ## 🐍&nbsp; My Virtual Pet
   
