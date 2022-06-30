@@ -21,9 +21,11 @@
     ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=FFFFFF)&nbsp;
     ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)&nbsp;
     ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=FFFFFF)&nbsp;
+    ![Markdown](https://img.shields.io/badge/-Markdown-FFFFFF?style=flat&logo=markdown&logoColor=000000)&nbsp;
+
+- Front-end
     ![HTML](https://img.shields.io/badge/-HTML-E44D26?style=flat&logo=HTML5&logoColor=FFFFFF)&nbsp;
     ![CSS](https://img.shields.io/badge/-CSS-1B73BA?style=flat&logo=CSS3&logoColor=FFFFFF)&nbsp;
-    ![Markdown](https://img.shields.io/badge/-Markdown-FFFFFF?style=flat&logo=markdown&logoColor=000000)&nbsp;
 
 - Versioning
 
