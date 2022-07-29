@@ -30,6 +30,12 @@
     ![CSS](https://img.shields.io/badge/-CSS-1B73BA?style=flat&logo=CSS3&logoColor=FFFFFF)&nbsp;
     ![Markdown](https://img.shields.io/badge/-Markdown-FFFFFF?style=flat&logo=markdown&logoColor=000000)&nbsp;
 
+
+- Database
+
+    ![SQLite](https://img.shields.io/badge/-SQLite-FFFFFF?style=flat&logo=sqlite&logoColor=000000)&nbsp;
+    ![MYSQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=FFFFFF)&nbsp;
+
 - Versioning
 
   ![Git](https://img.shields.io/badge/-Git-F14F32?style=flat&logo=git&logoColor=FFFFFF)&nbsp;
