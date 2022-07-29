@@ -4,8 +4,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/seiler.emerson/)
 [![E-mail Badge](https://img.shields.io/badge/-Gmail-BB001B?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=seiler.emerson@gmail.com&su=HELLO+-+Emerson!&body=Ol%C3%A1+Emerson%20Seiler,+Tudo+bem?&tf=cm)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seiler-emerson&layout=compact&theme=dark" />
-
 ### Good to see you here! &nbsp;![](https://komarev.com/ghpvc/?username=seiler-emerson)
 
     I have a bachelor's degree in Mechanical Engineering and a postgraduate
