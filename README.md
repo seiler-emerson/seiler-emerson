@@ -28,6 +28,7 @@
 
     ![HTML](https://img.shields.io/badge/-HTML-E44D26?style=flat&logo=HTML5&logoColor=FFFFFF)&nbsp;
     ![CSS](https://img.shields.io/badge/-CSS-1B73BA?style=flat&logo=CSS3&logoColor=FFFFFF)&nbsp;
+    ![CSS](https://img.shields.io/badge/-jQuery-1B73BA?style=flat&logo=jQuery&logoColor=FFFFFF)&nbsp;
     ![Markdown](https://img.shields.io/badge/-Markdown-FFFFFF?style=flat&logo=markdown&logoColor=000000)&nbsp;
 
 
