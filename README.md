@@ -33,7 +33,7 @@
 - Front-end / Libraries
 
     ![jQuery](https://img.shields.io/badge/-jQuery-1B73BA?style=flat&logo=jQuery&logoColor=FFFFFF)&nbsp;
-    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1B73BA?style=flat&logo=Bootstrap&logoColor=FFFFFF)&nbsp;
+    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-4B376E?style=flat&logo=Bootstrap&logoColor=FFFFFF)&nbsp;
 
 
 
