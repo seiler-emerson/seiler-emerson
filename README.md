@@ -77,6 +77,7 @@
 
   | Subjects 📚 | Repositories |
   |------|---------|
+  |🆙&nbsp; TypeScript|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_TypeScript_2022)|
   |🛠️&nbsp; JavaScript Test|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_JavaScript_Test_2022)|
   |🤖&nbsp; JavaScript|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_JavaScript_2022)|
   |🏥&nbsp; Project EMR Front-End|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_Project_EMR_Front_End_2022)|
