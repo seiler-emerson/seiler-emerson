@@ -47,22 +47,15 @@
 <details open>
   <summary><b>📐 🧮 📚 &nbsp; My Studies</b></summary>
 
-  | Subjects 📚 | Repositories |
-  |------|---------|
-  |🆙&nbsp; TypeScript|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_TypeScript_2022)|
-  |🛠️&nbsp; JavaScript Test|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_JavaScript_Test_2022)|
-  |🤖&nbsp; JavaScript|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_JavaScript_2022)|
-  |🏥&nbsp; Project EMR Front-End|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_Project_EMR_Front_End_2022)|
-  |🖥️&nbsp; HTML5 / CSS3|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_HTML5_CSS3_2022)|
-  |🎲&nbsp; Database - Relational Bank|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_Relational_Bank_2022)|
-  |🏥&nbsp; Project EMR|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_Project_EMR_2022)|
-  |⚠️&nbsp; Advanced Java|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_Java_Avancado_2022)|
-  |🗃️&nbsp; POO Java |[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_POO_Java_2022)|
-  |💡&nbsp; Logical|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_Logica_Java_2022)|
-  |✍🏻&nbsp; Exercises Java|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Exercicios_Java)|[▶️](https://github.com/seiler-emerson/Exercicios_Java)|
-  |🇺🇸&nbsp; English |[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_English_Java_2022)|
-  |📈&nbsp; Agile Methodologies|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_Agile_Methodologies_Java_2022)|
-  |🆘&nbsp; Helpers |[<div align="center">🗂</div>](https://github.com/seiler-emerson/helpers_entra21_2022)|
+  | Subjects 📚 | Repositories | --- | Subjects 📚 | Repositories |
+  |------|---------|---|------|---------|
+  |🆙&nbsp; TypeScript|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_TypeScript_2022)| --- |🛠️&nbsp; JavaScript Test|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_JavaScript_Test_2022)|
+  |🤖&nbsp; JavaScript|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_JavaScript_2022)| --- |🏥&nbsp; Project EMR Front-End|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_Project_EMR_Front_End_2022)|
+  |🖥️&nbsp; HTML5 / CSS3|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_HTML5_CSS3_2022)| --- |🎲&nbsp; Database - Relational Bank|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_Relational_Bank_2022)|
+  |🏥&nbsp; Project EMR|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_Project_EMR_2022)| --- |⚠️&nbsp; Advanced Java|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_Java_Avancado_2022)|
+  |🗃️&nbsp; POO Java |[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_POO_Java_2022)| --- |💡&nbsp; Logical|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_Logica_Java_2022)|
+  |✍🏻&nbsp; Exercises Java|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Exercicios_Java)|--- |🇺🇸&nbsp; English |[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_English_Java_2022)| 
+  |📈&nbsp; Agile Methodologies|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_Agile_Methodologies_Java_2022)| --- |🆘&nbsp; Helpers |[<div align="center">🗂</div>](https://github.com/seiler-emerson/helpers_entra21_2022)|
 
 
   <br />
