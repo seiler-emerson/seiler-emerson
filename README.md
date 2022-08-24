@@ -34,7 +34,7 @@
 
   | Subjects 📚 | Repositories | --- | Subjects 📚 | Repositories |
   |------|---------|---|------|---------|
-  |🅰️&nbsp; Angular|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_TypeScript_2022)| --- |🆙 &nbsp;  TypeScript Test|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_TypeScript_Test_2022)|
+  |🅰️&nbsp; Angular|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_Angular_2022)| --- |🆙 &nbsp;  TypeScript Test|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_TypeScript_Test_2022)|
   |🆙&nbsp; TypeScript|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_TypeScript_2022)| --- |🛠️&nbsp; JavaScript Test|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_JavaScript_Test_2022)|
   |🤖&nbsp; JavaScript|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_JavaScript_2022)| --- |🏥&nbsp; Project EMR Front-End|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_Project_EMR_Front_End_2022)|
   |🖥️&nbsp; HTML5 / CSS3|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_HTML5_CSS3_2022)| --- |🎲&nbsp; Database - Relational Bank|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_Relational_Bank_2022)|
