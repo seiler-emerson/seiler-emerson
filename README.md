@@ -6,8 +6,9 @@
 
 ### Good to see you here! &nbsp;![](https://komarev.com/ghpvc/?username=seiler-emerson)
 
-    I have a bachelor's degree in Mechanical Engineering and a postgraduate
-    degree in Biomedical Engineering with an emphasis on Clinical Engineering. 🎓🏛
+    I am a Software Engineering student, I also have a bachelor's degree in
+    Mechanical Engineering and a postgraduate degree in Biomedical Engineering
+    with an emphasis on Clinical Engineering. 🎓🏛
     I am a passionate maker who is always willing to learn and work with
     technology and different things. ⚙️💡
     I love exploring new technologies, I also love teaching. 🚀👨🏻‍💻
