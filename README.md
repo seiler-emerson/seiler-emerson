@@ -35,6 +35,7 @@
 
   | Subjects 📚 | Repositories | --- | Subjects 📚 | Repositories |
   |------|---------|---|------|---------|
+  |🏥&nbsp; Project EMR Spring|[<div align="center">🗂</div>](https://github.com/Red-Team-Entra21-Java/Entra21_Project_EMR_Spring_2022)| --- |🏥&nbsp; Project EMR Angular|[<div align="center">🗂</div>](https://github.com/Red-Team-Entra21-Java/Entra21_Project_EMR_Angular_2022)|
   |☘️&nbsp; Spring Boot|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_SpringBoot_2022)| --- |🏥&nbsp; Project EMR Angular|[<div align="center">🗂</div>](https://github.com/Red-Team-Entra21-Java/Entra21_Project_EMR_Angular_2022)|
   |🅰️&nbsp; Angular|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_Angular_2022)| --- |🆙 &nbsp;  TypeScript Test|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_TypeScript_Test_2022)|
   |🆙&nbsp; TypeScript|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_TypeScript_2022)| --- |🛠️&nbsp; JavaScript Test|[<div align="center">🗂</div>](https://github.com/seiler-emerson/Entra21_JavaScript_Test_2022)|
