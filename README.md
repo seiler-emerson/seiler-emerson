@@ -58,6 +58,7 @@
 
   | Projects 💻 | Repositories | Test Here |
   |------|---------|---------|
+  |🏥&nbsp; Electronic Medical Record|[<div align="center">🗂</div>](https://github.com/orgs/Red-Team-Entra21-Java/repositories)|[<div align="center">▶️</div>](https://github.com/orgs/Red-Team-Entra21-Java/repositories)|
   |🦖&nbsp; Pokémon Capture|[<div align="center">🗂</div>](https://github.com/seiler-emerson/initial_projects/tree/main/pokemonCapture)|[<div align="center">▶️</div>](https://seiler-emerson.github.io/initial_projects/pokemonCapture/)|
   |🖥️&nbsp; Inside Medical Page|[<div align="center">🗂</div>](https://github.com/seiler-emerson/initial_projects/tree/main/inside_medical)|[<div align="center">▶️</div>](https://seiler-emerson.github.io/initial_projects/inside_medical/index.html)|
   |🎨&nbsp; My Portfolio|[<div align="center">🗂</div>](https://github.com/seiler-emerson/seiler-emerson.github.io)|[<div align="center">▶️</div>](https://seiler-emerson.github.io/)
