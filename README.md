@@ -1,30 +1,23 @@
 ## Hello! I'm Emerson Seiler 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-0E76A8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seileremerson/)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white)](https://youtube.com/@emersonseiler?sub_confirmation=1)
 
 
 ### Good to see you here! &nbsp;![](https://komarev.com/ghpvc/?username=seiler-emerson)
 
-    Mechanical Engineer with specialization in Biomedical Engineering, currently studying in the Postgraduate program - MBA Data Science and Analytics at USP/Esalq.
-    With experience in full stack development, we contribute significantly to two distinct software segments.
-    The first is the creation of indicator analysis systems aimed at public health. These systems play a critical role in improving decision-making and promoting more effective public health.
-    Additionally, I work on developing systems for managing care in medical clinics.
-    My role allows me to be in contact with practically many of the project phases:
-    - Management of the development team.
-    - Planning the data structure, logic and system design.
-    - Front-end and back-end development.
-    - Implement systems.
-    - Server management.
+    I am a Development Lead at Sparti Health Tech, specializing in planning and implementing solutions that transform public and private healthcare management.
+    I have over 10 years of experience in the healthcare field.
+    Career Highlights:
+    Leadership in the development of critical systems for the healthcare sector, including BI tools for municipal data management and epidemiological management systems.
+    Hands-on experience in all phases of the project lifecycle, from planning and deployment to implementation.
+    Committed to technological innovation, I maintain a YouTube channel (https://www.youtube.com/emersonseiler) about homelab and technology, sharing knowledge with the community.
+    Constantly striving to apply cutting-edge technologies to improve operational efficiency and the quality of healthcare services.
+    Previous career in Engineering within the medical/hospital segment, where I held technical and managerial roles in hospitals and clinics of various sizes, contributing to the optimization and operationalization of medical equipment.
 
 ## 🛠 &nbsp;Tech Stack
   
-
-| |  |  |  |  |
-|---|---|---|---|---|
-|Spring| Java | Angular | Python | Pandas |
-|TypeScript| HTML | CSS | JavaScript | Primeng |
-|Postgres| mySql | Bootstrap | Git | Linux |
-| Docker| mySql | Bootstrap | Git | Linux |
+Expertise in Next.js, TypeScript, Python, Java, Docker, and DevOps, with a focus on creating scalable and efficient solutions.
 </details>
 
 
@@ -38,6 +31,9 @@
 
 <a href="https://www.buymeacoffee.com/seileremerson" target="_blank"><img src="./img/button/coffe_button.png" alt="Buy Me A Coffee" height="70px" width="250px"></a>
 
+
 <a href="https://www.buymeacoffee.com/seileremerson" target="_blank"><img src="./img/gif/jedi_coffe.gif" alt="Buy Me A Coffee" width="250px"></a>
 
+## 💰 &nbsp; Donate a pix?
 
+<a href="https://www.buymeacoffee.com/seileremerson" target="_blank"><img src="./img/button/buymecoffe.png" alt="pix" height="70px" width="250px"></a>
