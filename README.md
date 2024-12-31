@@ -29,6 +29,13 @@
     focus on creating scalable and efficient solutions.
 </details>
 
+## 🌊 &nbsp;Alaga Help
+  
+    Alaga Help is a SaaS focused on flood registration, which uses this information to populate maps and create a broader overview of flooding and inundation points. 
+    It is a great starting point for a notification system for incidents resulting from severe weather.
+    Whach on youtube: https://youtu.be/FQ6Kq_sIgZk
+</details>
+
 
 
 
