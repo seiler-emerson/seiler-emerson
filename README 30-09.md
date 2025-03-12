@@ -12,6 +12,7 @@
     My hobbies usually involve computers, 3D printing, and my mountain bike. 🖥️ 🖨️ 🚴🏼
     Currently, I'm a Full Stack Java/Angular developer at Sparti. 👨🏻‍💻
 
+
 ## 🛠 &nbsp;Tech Stack
 
 | |  |  |  |  |
