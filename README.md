@@ -1,5 +1,5 @@
 # Hello! I'm Emerson Seiler 👋
-### Mechanical Engineer | Full Stack & Backend Developer | Tech Lead
+### Full Stack & Backend Developer | Mechanical Engineer | Tech Lead
 
 [![Website Badge](https://img.shields.io/badge/-emersoon.dev-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://emersoon.dev)
 [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-0E76A8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seileremerson/)
@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me
-I am a **Mechanical Engineer** who transitioned into Software Engineering, bringing a systemic and hardware-aware perspective to the digital world. With 3+ years of experience as a **Technical Lead** in a startup environment, I've architected and deployed 8+ health systems.
+I am a **Mechanical Engineer** who transitioned into **Software Engineering**, bringing a systemic and hardware-aware perspective to the digital world. With 3+ years of experience as a **Technical Lead** in a startup environment, I've architected and deployed 8+ health systems.
 
 Currently, I am deep-diving into **Java Backend Engineering** and **High-Performance Systems**.
 
